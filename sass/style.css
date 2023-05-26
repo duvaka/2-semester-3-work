@@ -447,6 +447,7 @@ h4 {
     background-repeat: no-repeat;
   }
   .header__nav.active {
+    margin: 80px 0px 0px 0px
     height: 70px;
   }
   .header__list h3 {
