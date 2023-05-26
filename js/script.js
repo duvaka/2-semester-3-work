@@ -3,10 +3,10 @@ const dotContainer = document.querySelector('.slider__dots');
 const dots = dotContainer.querySelectorAll('.slider__dot');
 const slider = document.querySelector('.slider__slider');
 const imgArr = [
-    '//img/Banner_1.png',
-    '//img/Banner_2.png',
-    '//img/Banner_3.png',
-    '//img/Banner_4.png'
+    'img/Banner_1.png',
+    'img/Banner_2.png',
+    'img/Banner_3.png',
+    'img/Banner_4.png'
 ];
 
 let currentSlide = 0;
